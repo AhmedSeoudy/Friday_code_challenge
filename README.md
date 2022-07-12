@@ -33,7 +33,7 @@ The three main Regex Cases:
 
 To Run the Code:
 	•	Add your test strings in test.txt
-	•	Run task_main.py and make sure Friday_task is imported  
+	•	Run task_main.py and make sure address_parser is imported  
 	•	The resulted json file under the name json_data is generated containing the results
 
 Contact:
